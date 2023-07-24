@@ -99,3 +99,5 @@ public class Cart_List_Activity extends AppCompatActivity {
         totalTxt.setText("$" + total);
     }
 }
+
+//add this cmt
